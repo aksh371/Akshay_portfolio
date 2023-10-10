@@ -12,7 +12,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 - **Addressing Class Imbalance:**
   - Recognizing the challenge posed by imbalanced data, I employed the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE helped balance the class distribution, preventing the model from being biased toward the majority class.
-    ![Image Alt Text](./confusion_test.PNG)
+    ![Class Imbalance](./imbal.PNG)
 
 
 - **Feature Engineering:**
@@ -20,6 +20,11 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 - **Model Evaluation and Interpretation:**
   - Rigorously evaluated the model using industry-standard metrics and techniques. Additionally, delved into model interpretation to understand the factors contributing to predictions.
+  - ![Train accuracy before applying SMOTE](./train_before_smote.PNG)
+  - ![Test accuracy before applying SMOTE](./test_before_smote.PNG)
+ 
+  - ![Train accuracy after applying SMOTE](./train_after_smote.PNG)
+  - ![Test accuracy after applying SMOTE](./train_before_smote.PNG)
 
 - **Scalability and Deployment Considerations:**
   - Discussed considerations for scalability and potential deployment strategies, ensuring the model's practicality in real-world scenarios.
