@@ -12,7 +12,8 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 - **Addressing Class Imbalance:**
   - Recognizing the challenge posed by imbalanced data, I employed the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE helped balance the class distribution, preventing the model from being biased toward the majority class.
-  - 
+    ![Image Alt Text](./confusion_test.PNG)
+
 
 - **Feature Engineering:**
   - Explored and engineered relevant features to enhance the predictive capabilities of the model. Considered factors such as customer behavior, transaction history, and engagement metrics.
