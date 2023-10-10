@@ -17,7 +17,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 
 
-                            *Image Label or Description*
+                                   *Image Label or Description*
 
 
 - **Feature Engineering:**
