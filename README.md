@@ -22,7 +22,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
   - Rigorously evaluated the model using industry-standard metrics and techniques. Additionally, delved into model interpretation to understand the factors contributing to predictions.
  
   - 
-  - ![Train accuracy before applying SMOTE](./train_before_smote.PNG "example1")
+  - ![Train accuracy before applying SMOTE](./train_before_smote.PNG)
   - ![Test accuracy before applying SMOTE](./test_before_smote.PNG)
  
   - ![Train accuracy after applying SMOTE](./train_after_smote.PNG)
