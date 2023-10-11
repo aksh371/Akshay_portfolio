@@ -51,7 +51,7 @@ For this project, I developed a sophisticated spam classifier using deep learnin
   - Constructed a deep learning model based on Dense Neural Networks, utilizing the word embeddings as input features.
   - Explored different architectures, layer configurations, and activation functions to optimize the model's performance.
 
-- **Training and Evaluation:**
+  **Training and Evaluation:**
   - Trained the model on the spam classifier dataset, carefully validating its performance to ensure robustness.
   - Employed metrics such as precision, recall, and F1 score for a comprehensive evaluation of the model's effectiveness.
     
@@ -63,9 +63,9 @@ For this project, I developed a sophisticated spam classifier using deep learnin
 
   - Confusion matrices for train and test data
     
-     ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
+    ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
     
-     ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+    ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
 
 - **Application to Real-world Problem:**
   - Addressed the practical challenge of spam detection, contributing to the ongoing efforts to enhance email security and user experience.
