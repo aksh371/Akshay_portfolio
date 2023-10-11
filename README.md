@@ -59,15 +59,14 @@ For this project, I developed a sophisticated spam classifier using deep learnin
   - Employed metrics such as precision, recall, and F1 score for a comprehensive evaluation of the model's effectiveness.
     
   - ROC plots obtained:
-    
+
     ![Train accuracy before applying SMOTE](./ROC_train_title.PNG)
     
     ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
 
-    
 
-  - Confusion matrices for train and test data
-    
+  - Confusion matrices for train and test data:
+
     ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
     
     ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
