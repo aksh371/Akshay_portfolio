@@ -135,11 +135,11 @@ In this project, I conducted a comprehensive investigation into the relationship
   - Initiated the project with a meticulous EDA in Stata to gain insights into trends and patterns in the data.
   - Explored statistical summaries, visualizations, and correlations to inform subsequent steps.
 
-    ![Train accuracy before applying SMOTE](./stata1.PNG)
+    ![Train accuracy before applying SMOTE](./stata1_re.PNG)
 
     <br><br> <!-- Adding line breaks for spacing -->
 
-    ![Train accuracy before applying SMOTE](./stata2.PNG)
+    ![Train accuracy before applying SMOTE](./stata2_re.PNG)
 
 - **Data Preprocessing:**
   - Addressed issues related to data distribution and multicollinearity through preprocessing techniques.
