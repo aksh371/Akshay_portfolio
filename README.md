@@ -61,6 +61,8 @@ For this project, I developed a sophisticated spam classifier using deep learnin
   - ROC plots obtained:
 
     ![Train accuracy before applying SMOTE](./ROC_train_title.PNG)
+ 
+    <br><br> <!-- Adding line breaks for spacing -->
     
     ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
 
