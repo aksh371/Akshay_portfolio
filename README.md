@@ -1,4 +1,4 @@
-# AKshay_portfolio
+# Portfolio_Akshay_Kamoji
 Porfolio that showcases my technical abilities in Data Science and analytics
 
 # Project 1: Predicting Customer Churn with XGBoost and SMOTE
