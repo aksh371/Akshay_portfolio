@@ -20,7 +20,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 - **Model Evaluation and Interpretation:**
   - Rigorously evaluated the model using industry-standard metrics and techniques. Additionally, delved into model interpretation to understand the factors contributing to predictions.
  
-  - 
+  
   - ![Train accuracy before applying SMOTE](./train_conf_xg.PNG)
   - ![Test accuracy before applying SMOTE](./test_cong_xg.PNG)
  
@@ -54,14 +54,14 @@ For this project, I developed a sophisticated spam classifier using deep learnin
 - **Training and Evaluation:**
   - Trained the model on the spam classifier dataset, carefully validating its performance to ensure robustness.
   - Employed metrics such as precision, recall, and F1 score for a comprehensive evaluation of the model's effectiveness.
-  - 
+    
   - ROC plots obtained:
   - ![Train accuracy before applying SMOTE](./ROC_train_title.PNG)
   - ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
 
   - Confusion matrices for train and test data
--   ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
--   ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+  -   ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
+  -   ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
 
 - **Application to Real-world Problem:**
   - Addressed the practical challenge of spam detection, contributing to the ongoing efforts to enhance email security and user experience.
