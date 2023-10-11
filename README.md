@@ -19,13 +19,16 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 - **Model Evaluation and Interpretation:**
   - Rigorously evaluated the model using industry-standard metrics and techniques. Additionally, delved into model interpretation to understand the factors contributing to predictions.
- 
+    
+  - Confusion matrices for train and test data
   
-  - ![Train accuracy before applying SMOTE](./train_conf_xg.PNG)
-  - ![Test accuracy before applying SMOTE](./test_cong_xg.PNG)
+    ![Train accuracy before applying SMOTE](./train_conf_xg.PNG)
+    
+    ![Test accuracy before applying SMOTE](./test_cong_xg.PNG)
  
-  - ![Train accuracy after applying SMOTE](./train_conf_xg_smote.PNG)
-  - ![Test accuracy after applying SMOTE](./test_conf_xg_smote.PNG)
+    ![Train accuracy after applying SMOTE](./train_conf_xg_smote.PNG)
+    
+    ![Test accuracy after applying SMOTE](./test_conf_xg_smote.PNG)
 
 - **Scalability and Deployment Considerations:**
   - Discussed considerations for scalability and potential deployment strategies, ensuring the model's practicality in real-world scenarios.
