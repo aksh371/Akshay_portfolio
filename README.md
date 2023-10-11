@@ -26,6 +26,8 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
     
     ![Test accuracy before applying SMOTE](./test_cong_xg.PNG)
  
+    <br><br> <!-- Adding line breaks for spacing -->
+ 
     ![Train accuracy after applying SMOTE](./train_conf_xg_smote.PNG)
     
     ![Test accuracy after applying SMOTE](./test_conf_xg_smote.PNG)
@@ -72,7 +74,7 @@ For this project, I developed a sophisticated spam classifier using deep learnin
 
     ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
 
-   ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+    ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
 
 - **Application to Real-world Problem:**
   - Addressed the practical challenge of spam detection, contributing to the ongoing efforts to enhance email security and user experience.
@@ -95,9 +97,21 @@ In this project, I utilized Tableau to create insightful visualizations of COVID
 
 - **Tableau Visualizations:**
   - Developed a series of interactive dashboards using Tableau to showcase vaccination patterns. These dashboards enable users to explore the data dynamically, gaining insights into state-level variations and temporal trends.
+ 
 
 - **Exploratory Data Analysis:**
   - Conducted exploratory data analysis within Tableau, uncovering key patterns and correlations. This involved analyzing vaccination rates, identifying hotspots, and assessing the impact of vaccination campaigns.
+ 
+    - Understanding the corrleation between vaccine hesitancy and political influence
+
+      ![Train accuracy before applying SMOTE](./DoH_top_10.PNG)
+
+      <br><br> <!-- Adding line breaks for spacing -->
+
+    - Vaccination status by different status as of December 2021
+
+      ![Train accuracy before applying SMOTE](./tableau1.PNG)
+      
 
 - **Effect Exploration:**
   - Explored the effects of various factors, including political influences, weather conditions, time, and state-specific dynamics, on vaccination patterns.
