@@ -124,3 +124,32 @@ In this project, I utilized Tableau to create insightful visualizations of COVID
 
 This project not only demonstrates my proficiency in data visualization but also showcases my ability to extract meaningful insights from complex datasets, contributing to a better understanding of COVID-19 vaccination trends in the US.
 
+
+# Project 4: Understanding the Impact of Shall Carry Laws on Crime Rates using Time Series Fixed Effects Model
+
+In this project, I conducted a comprehensive investigation into the relationship between Shall Carry Laws in the United States and crime rates. Leveraging data from [Princeton University's Stock-Watson Empirical Exercises datasets](https://www.princeton.edu/~mwatson/Stock-Watson_3u/Students/Stock-Watson-EmpiricalExercises-DataSets.htm), I applied a time series fixed effects model to unravel patterns and discern the impact of various factors on crime rates.
+
+## Key Components:
+
+- **Exploratory Data Analysis (EDA) in Stata:**
+  - Initiated the project with a meticulous EDA in Stata to gain insights into trends and patterns in the data.
+  - Explored statistical summaries, visualizations, and correlations to inform subsequent steps.
+
+- **Data Preprocessing:**
+  - Addressed issues related to data distribution and multicollinearity through preprocessing techniques.
+  - Ensured the quality and reliability of the data before proceeding with model development.
+
+- **Fixed Effects Model Construction:**
+  - Developed a robust time series fixed effects model to investigate the relationship between Shall Carry Laws, crime rates, and a range of influential factors.
+  - Considered variables such as city population, average salary, incarceration rate, population density, among others, to capture the complexity of the relationships.
+
+- **Model Evaluation and Interpretation:**
+  - Rigorously evaluated the model using appropriate statistical metrics, ensuring its accuracy and reliability.
+  - Interpreted the results to draw meaningful conclusions about the impact of Shall Carry Laws on crime rates and the nuanced interplay with other contributing factors.
+
+- **Policy Implications and Real-world Context:**
+  - Considered the broader policy implications of the findings, contributing valuable insights to the discourse on public safety and firearm regulations.
+
+This project not only demonstrates my proficiency in empirical analysis using Stata and constructing sophisticated time series fixed effects models but also showcases my ability to tackle complex socio-economic questions through data-driven approaches.
+
+
