@@ -60,8 +60,8 @@ For this project, I developed a sophisticated spam classifier using deep learnin
   - ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
 
   - Confusion matrices for train and test data
-  -   ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
-  -   ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+     ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
+     ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
 
 - **Application to Real-world Problem:**
   - Addressed the practical challenge of spam detection, contributing to the ongoing efforts to enhance email security and user experience.
