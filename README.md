@@ -32,3 +32,43 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 This project not only showcases my proficiency in machine learning and predictive modeling but also underscores my commitment to addressing real-world challenges, such as class imbalance, to deliver robust and actionable solutions.
 
+# Project 2: Spam Classifier using Dense Neural Networks and Word Embeddings (Word2Vec)
+
+For this project, I developed a sophisticated spam classifier using deep learning techniques, specifically Dense Neural Networks, and harnessed the power of word embeddings generated with Word2Vec.
+
+## Key Features:
+
+- **Dataset and Cleaning:**
+  - Utilized the spam classifier dataset from Kaggle as the foundation for the project.
+  - Employed Spacy for data cleaning, removing stop words and punctuation to enhance the quality of the text data.
+
+- **Word Embeddings with Word2Vec:**
+  - Leveraged Gensim to convert text into embedding vectors. The vectors were obtained through training on the cleaned dataset. The following hyperparametrs where used to get the vectors - vector size =20, window size =7, sg=1(skipgram)
+  
+  - Implemented the skip-gram model to capture better contextual understanding and representation of words.
+
+- **Dense Neural Network Model:**
+  - Constructed a deep learning model based on Dense Neural Networks, utilizing the word embeddings as input features.
+  - Explored different architectures, layer configurations, and activation functions to optimize the model's performance.
+
+- **Training and Evaluation:**
+  - Trained the model on the spam classifier dataset, carefully validating its performance to ensure robustness.
+  - Employed metrics such as precision, recall, and F1 score for a comprehensive evaluation of the model's effectiveness.
+  - 
+  - ROC plots obtained:
+  - ![Train accuracy before applying SMOTE](./ROC_train_title.PNG)
+  - ![Train accuracy before applying SMOTE](./ROC_test_title.PNG)
+
+  - Confusion matrices for train and test data
+-   ![Train accuracy before applying SMOTE](./conf_embed_traon.PNG)
+-   ![Train accuracy before applying SMOTE](./conf_embed_test.PNG)
+
+- **Application to Real-world Problem:**
+  - Addressed the practical challenge of spam detection, contributing to the ongoing efforts to enhance email security and user experience.
+
+- **Model Interpretation:**
+  - Delved into the interpretability of the model, analyzing important features and gaining insights into its decision-making process.
+
+This project not only showcases my proficiency in implementing deep learning models for natural language processing tasks but also demonstrates my commitment to addressing real-world challenges such as spam detection through advanced techniques like Word2Vec and Dense Neural Networks.
+
+
