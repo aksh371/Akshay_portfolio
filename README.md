@@ -5,7 +5,7 @@ Porfolio that showcases my technical abilities in Data Science and analytics
 
 In this project, I leveraged the power of XGBoost, a robust gradient boosting algorithm, to develop a machine learning model for predicting customer churn. The objective was to proactively identify customers who might churn, enabling targeted retention strategies.
 
-## Key Highlights:
+
 
 - **Machine Learning Model:**
   - Implemented and fine-tuned an XGBoost model, known for its effectiveness in handling complex relationships within data.
