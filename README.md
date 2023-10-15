@@ -1,7 +1,7 @@
 # Portfolio_Akshay_Kamoji
 Porfolio that showcases my technical abilities in Data Science and analytics
 
-# Project 1: Predicting Customer Churn with XGBoost and SMOTE
+# Project 1: Predicting Customer Churn with XGBoost and SMOTE 
 
 In this project, I leveraged the power of XGBoost, a robust gradient boosting algorithm, to develop a machine learning model for predicting customer churn. The objective was to proactively identify customers who might churn, enabling targeted retention strategies.
 
