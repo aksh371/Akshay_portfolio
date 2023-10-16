@@ -29,6 +29,10 @@ This project not only showcases my proficiency in machine learning and predictiv
 
 # Project 2: Spam Classifier using Dense Neural Networks and Word Embeddings (Word2Vec)
 
+link to the repository - (https://github.com/aksh371/Spam-Classifier-using-word-embedding)
+
+link to the Jupyter Notebook - (https://github.com/aksh371/Spam-Classifier-using-word-embedding/blob/main/Spam%20classifier%20using%20word%20embeddings(word2vec).ipynb)
+
 For this project, I developed a sophisticated spam classifier using deep learning techniques, specifically Dense Neural Networks, and harnessed the power of word embeddings generated with Word2Vec.
 
 ## Key Features:
@@ -59,6 +63,10 @@ This project not only showcases my proficiency in implementing deep learning mod
 
 
 # Project 3: Visualizing COVID-19 Vaccination Patterns in the US using Tableau
+
+link to the repository - (https://github.com/aksh371/US-Covid-vaccinations)
+
+link to the Tableau file (raw) - (https://github.com/aksh371/US-Covid-vaccinations/blob/main/proj_final.twbx)
 
 In this project, I utilized Tableau to create insightful visualizations of COVID-19 vaccination patterns in the United States. Leveraging data from the CDC website, I aimed to provide a comprehensive understanding of vaccination trends based on diverse criteria, including state-wise distribution and vaccination progress over time.
 
