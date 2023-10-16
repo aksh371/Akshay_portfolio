@@ -2,7 +2,7 @@
 Porfolio that showcases my technical abilities in Data Science and analytics
 
 # Project 1: Predicting Customer Churn with XGBoost and SMOTE 
-link to the repository - ([https://github.com/aksh371/Telco-Customer-Churn-kaggle/blob/main/XGBoost%20Telco.ipynb](https://github.com/aksh371/Telco-Customer-Churn-kaggle)
+link to the repository - (https://github.com/aksh371/Telco-Customer-Churn-kaggle)
 
 link to the Jupyter Notebook - (https://github.com/aksh371/Telco-Customer-Churn-kaggle/blob/main/XGBoost%20Telco.ipynb)
 
