@@ -11,7 +11,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 - **Addressing Class Imbalance:**
   - Recognizing the challenge posed by imbalanced data, I employed the Synthetic Minority Over-sampling Technique (SMOTE). SMOTE helped balance the class distribution, preventing the model from being biased toward the majority class.
-    ![Class Imbalance](./imbal.PNG "example1")
+    ![Class Imbalance](./images/imbal.PNG "example1")
 
 - **Feature Engineering:**
   - Explored and engineered relevant features to enhance the predictive capabilities of the model. Considered factors such as customer behavior, transaction history, and engagement metrics.
@@ -94,11 +94,11 @@ In this project, I conducted a comprehensive investigation into the relationship
   - Initiated the project with a meticulous EDA in Stata to gain insights into trends and patterns in the data.
   - Explored statistical summaries, visualizations, and correlations to inform subsequent steps.
 
-    ![Train accuracy before applying SMOTE](./stata1_re.PNG)
+    ![Train accuracy before applying SMOTE](./images/stata1_re.PNG)
 
     <br><br> <!-- Adding line breaks for spacing -->
 
-    ![Train accuracy before applying SMOTE](./stata2_re.PNG)
+    ![Train accuracy before applying SMOTE](./images/stata2_re.PNG)
 
 - **Data Preprocessing:**
   - Addressed issues related to data distribution and multicollinearity through preprocessing techniques.
