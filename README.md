@@ -68,6 +68,8 @@ link to the repository - (https://github.com/aksh371/US-Covid-vaccinations)
 
 link to the Tableau file (raw) - (https://github.com/aksh371/US-Covid-vaccinations/blob/main/proj_final.twbx)
 
+Link to the tableau public visualization - (https://public.tableau.com/app/profile/akshay.kamoji/viz/proj_final5/Story1?publish=yes)
+
 In this project, I utilized Tableau to create insightful visualizations of COVID-19 vaccination patterns in the United States. Leveraging data from the CDC website, I aimed to provide a comprehensive understanding of vaccination trends based on diverse criteria, including state-wise distribution and vaccination progress over time.
 
 ## Key Achievements:
