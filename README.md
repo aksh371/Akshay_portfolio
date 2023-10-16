@@ -97,6 +97,10 @@ This project not only demonstrates my proficiency in data visualization but also
 
 # Project 4: Understanding the Impact of Shall Carry Laws on Crime Rates using Time Series Fixed Effects Model
 
+link to the repository - (https://github.com/aksh371/Stata-analysis)
+
+link to the Stata file (raw) - (https://github.com/aksh371/Stata-analysis/blob/main/guns_2.dta)
+
 In this project, I conducted a comprehensive investigation into the relationship between Shall Carry Laws in the United States and crime rates. Leveraging data from [Princeton University's Stock-Watson Empirical Exercises datasets](https://www.princeton.edu/~mwatson/Stock-Watson_3u/Students/Stock-Watson-EmpiricalExercises-DataSets.htm), I applied a time series fixed effects model to unravel patterns and discern the impact of various factors on crime rates.
 
 ## Key Components:
