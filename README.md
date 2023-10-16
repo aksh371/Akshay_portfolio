@@ -2,9 +2,9 @@
 Porfolio that showcases my technical abilities in Data Science and analytics
 
 # Project 1: Predicting Customer Churn with XGBoost and SMOTE 
-link to the repository - (https://github.com/aksh371/Telco-Customer-Churn-kaggle)
+link to the [Project Repository ](https://github.com/aksh371/Telco-Customer-Churn-kaggle)
 
-link to the Jupyter Notebook - (https://github.com/aksh371/Telco-Customer-Churn-kaggle/blob/main/XGBoost%20Telco.ipynb)
+link to the [Jupyter Notebook](https://github.com/aksh371/Telco-Customer-Churn-kaggle/blob/main/XGBoost%20Telco.ipynb)
 
 In this project, I leveraged the power of XGBoost, a robust gradient boosting algorithm, to develop a machine learning model for predicting customer churn. The objective was to proactively identify customers who might churn, enabling targeted retention strategies.
 
@@ -29,9 +29,9 @@ This project not only showcases my proficiency in machine learning and predictiv
 
 # Project 2: Spam Classifier using Dense Neural Networks and Word Embeddings (Word2Vec)
 
-link to the repository - (https://github.com/aksh371/Spam-Classifier-using-word-embedding)
+link to the [repository](https://github.com/aksh371/Spam-Classifier-using-word-embedding)
 
-link to the Jupyter Notebook - (https://github.com/aksh371/Spam-Classifier-using-word-embedding/blob/main/Spam%20classifier%20using%20word%20embeddings(word2vec).ipynb)
+link to the [Jupyter Notebook](https://github.com/aksh371/Spam-Classifier-using-word-embedding/blob/main/Spam%20classifier%20using%20word%20embeddings(word2vec).ipynb)
 
 For this project, I developed a sophisticated spam classifier using deep learning techniques, specifically Dense Neural Networks, and harnessed the power of word embeddings generated with Word2Vec.
 
@@ -64,11 +64,11 @@ This project not only showcases my proficiency in implementing deep learning mod
 
 # Project 3: Visualizing COVID-19 Vaccination Patterns in the US using Tableau
 
-link to the repository - (https://github.com/aksh371/US-Covid-vaccinations)
+link to the [repository](https://github.com/aksh371/US-Covid-vaccinations)
 
-link to the Tableau file (raw) - (https://github.com/aksh371/US-Covid-vaccinations/blob/main/proj_final.twbx)
+link to the [Tableau file (raw)](https://github.com/aksh371/US-Covid-vaccinations/blob/main/proj_final.twbx)
 
-Link to the tableau public visualization - (https://public.tableau.com/app/profile/akshay.kamoji/viz/proj_final5/Story1?publish=yes)
+Link to the [tableau public visualization](https://public.tableau.com/app/profile/akshay.kamoji/viz/proj_final5/Story1?publish=yes)
 
 In this project, I utilized Tableau to create insightful visualizations of COVID-19 vaccination patterns in the United States. Leveraging data from the CDC website, I aimed to provide a comprehensive understanding of vaccination trends based on diverse criteria, including state-wise distribution and vaccination progress over time.
 
@@ -99,9 +99,9 @@ This project not only demonstrates my proficiency in data visualization but also
 
 # Project 4: Understanding the Impact of Shall Carry Laws on Crime Rates using Time Series Fixed Effects Model
 
-link to the repository - (https://github.com/aksh371/Stata-analysis)
+link to the [repository](https://github.com/aksh371/Stata-analysis)
 
-link to the Stata file (raw) - (https://github.com/aksh371/Stata-analysis/blob/main/guns_2.dta)
+link to the [Stata file (raw)](https://github.com/aksh371/Stata-analysis/blob/main/guns_2.dta)
 
 In this project, I conducted a comprehensive investigation into the relationship between Shall Carry Laws in the United States and crime rates. Leveraging data from [Princeton University's Stock-Watson Empirical Exercises datasets](https://www.princeton.edu/~mwatson/Stock-Watson_3u/Students/Stock-Watson-EmpiricalExercises-DataSets.htm), I applied a time series fixed effects model to unravel patterns and discern the impact of various factors on crime rates.
 
