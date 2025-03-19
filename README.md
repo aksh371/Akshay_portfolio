@@ -19,7 +19,7 @@ link to the [Jupyter Notebook](https://github.com/aksh371/Langraph-AI-Agent/blob
 ✅ **Optimized query processing** for fast response times  
 
 
-![Langraph AI Agent](./Langraph_image.PNG)
+![Langraph AI Agent](./images/Langraph_image.PNG)
 
 
 
