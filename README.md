@@ -1,7 +1,26 @@
 # Portfolio_Akshay_Kamoji 
-Porfolio that showcases my technical abilities in Data Science and analytics
+Porfolio that showcases my technical abilities in AI and analytics.
 
-# Project 1: Predicting Customer Churn with XGBoost and SMOTE 
+# Project 1: Multi Actor LLM using Langraph and AstraDB
+This project implements a **multi-actor LLM** using **Langraph** for efficient state management. It integrates **WikiSearch API** for knowledge retrieval and **AstraDB** for scalable data storage.  
+
+link to the [Jupyter Notebook](https://github.com/aksh371/Langraph-AI-Agent/blob/main/3_Langraph_With_Astradb.ipynb)
+
+## 🛠 Tech Stack  
+- **Langraph** – Manages multi-actor interactions and state transitions  
+- **AstraDB** – Provides scalable and efficient data storage  
+- **WikiSearch API** – Enhances LLM responses with external knowledge  
+- **FastAPI & Python** – Backend API and LLM orchestration  
+
+## 🔹 Features  
+✅ **Multi-actor state management** using Langraph  
+✅ **Real-time knowledge retrieval** from Wikipedia via WikiSearch API  
+✅ **Scalable storage** with AstraDB  
+✅ **Optimized query processing** for fast response times  
+
+
+
+# Project 2: Predicting Customer Churn with XGBoost and SMOTE 
 link to the [Project Repository ](https://github.com/aksh371/Telco-Customer-Churn-kaggle)
 
 link to the [Jupyter Notebook](https://github.com/aksh371/Telco-Customer-Churn-kaggle/blob/main/XGBoost%20Telco.ipynb)
@@ -27,7 +46,7 @@ In this project, I leveraged the power of XGBoost, a robust gradient boosting al
 
 This project not only showcases my proficiency in machine learning and predictive modeling but also underscores my commitment to addressing real-world challenges, such as class imbalance, to deliver robust and actionable solutions.
 
-# Project 2: Spam Classifier using Dense Neural Networks and Word Embeddings (Word2Vec)
+# Project 3: Spam Classifier using Dense Neural Networks and Word Embeddings (Word2Vec)
 
 link to the [repository](https://github.com/aksh371/Spam-Classifier-using-word-embedding)
 
@@ -62,7 +81,7 @@ For this project, I developed a sophisticated spam classifier using deep learnin
 This project not only showcases my proficiency in implementing deep learning models for natural language processing tasks but also demonstrates my commitment to addressing real-world challenges such as spam detection through advanced techniques like Word2Vec and Dense Neural Networks.
 
 
-# Project 3: Visualizing COVID-19 Vaccination Patterns in the US using Tableau
+# Project 4: Visualizing COVID-19 Vaccination Patterns in the US using Tableau
 
 link to the [repository](https://github.com/aksh371/US-Covid-vaccinations)
 
@@ -97,7 +116,7 @@ In this project, I utilized Tableau to create insightful visualizations of COVID
 This project not only demonstrates my proficiency in data visualization but also showcases my ability to extract meaningful insights from complex datasets, contributing to a better understanding of COVID-19 vaccination trends in the US.
 
 
-# Project 4: Understanding the Impact of Shall Carry Laws on Crime Rates using Time Series Fixed Effects Model
+# Project 5: Understanding the Impact of Shall Carry Laws on Crime Rates using Time Series Fixed Effects Model
 
 link to the [repository](https://github.com/aksh371/Stata-analysis)
 
