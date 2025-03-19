@@ -19,6 +19,9 @@ link to the [Jupyter Notebook](https://github.com/aksh371/Langraph-AI-Agent/blob
 ✅ **Optimized query processing** for fast response times  
 
 
+![Langraph AI Agent](Langraph_image.PNG)
+
+
 
 # Project 2: Predicting Customer Churn with XGBoost and SMOTE 
 link to the [Project Repository ](https://github.com/aksh371/Telco-Customer-Churn-kaggle)
